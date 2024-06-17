@@ -12,7 +12,6 @@ This repository contains a Node.js application that demonstrates secure user aut
 - Clone this repository to your local machine.
 - Install Node.js and npm (Node Package Manager) if you haven’t already.
 - Run npm install to install project dependencies.
-- Set up your database (e.g., MySQL, MongoDB) and configure the connection in the application.
 - Start the server using npm start.
 - Visit http://localhost:3000 to access the application.
 
